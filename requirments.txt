@@ -1,8 +1,8 @@
-streamlit==0.90.0
-pandas==1.3.3
-numpy==1.21.2
-transformers==4.11.2
-scikit-learn==0.24.2
-matplotlib==3.4.3
-yfinance==0.1.63
-torch==1.9.0
+streamlit
+pandas
+numpy
+transformers
+scikit-learn
+matplotlib
+yfinance
+torch
